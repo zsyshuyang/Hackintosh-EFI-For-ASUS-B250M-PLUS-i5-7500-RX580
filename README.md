@@ -62,7 +62,7 @@
 
  - [acidanthera](https://github.com/acidanthera)
  - [daliansky](https://github.com/daliansky/)
- - 部分文件来源作者待更新
+ - [Mrliu12123](http://bbs.pcbeta.com/viewthread-1851046-1-1.html)
 
 
 
