@@ -6,6 +6,10 @@
 
 ## 更新
 
+- 2020-12-15
+ - 更新至BIG SUR 11.1
+ - 更换引导程序至OC 0.6.4
+
 - 2020-05-25
 	- 键盘、鼠标、网卡蓝牙接口内建
 	- USB接口定制
@@ -47,12 +51,6 @@
 - 7.睡眠  
 - 8.H.264、HEVC硬件解码、编码、视频处理
 - 9.SATA SSD Trim（终端输入：sudo trimforce enable）
- 
-## 工具软件
-
-- [Clover Configurator](https://mackie100projects.altervista.org/download-clover-configurator/)
-- [Hackintool](https://github.com/headkaze/Hackintool)
-- [Kext Utility](http://cvad-mac.narod.ru/index/0-4)
 
 ## 使用说明
 
