@@ -35,8 +35,27 @@
 
 ## Bios设置
 
-待补充
+### Disable
+- Fast Boot
+- Secure Boot
+- Serial/COM Port
+- Parallel Port
+- VT-d
+- CSM
+- Thunderbolt
+- Intel SGX
+- Intel Platform Trust
+- CFG Lock 
 
+### Enable
+- VT-x
+- Above 4G decoding
+- Hyper-Threading
+- Execute Disable Bit
+- EHCI/XHCI Hand-off
+- OS type: Windows 8.1/10 UEFI Mode
+- DVMT Pre-Allocated(iGPU Memory): 64MB
+- SATA Mode: AHCI
 
 ## 工作状态
 
