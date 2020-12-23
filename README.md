@@ -34,6 +34,7 @@
     - 三星26.9英寸2K 144Hz 1800R曲面[已开启HIDPI]
 
 ## Bios设置
+（参考以下常规选项进行设置）
 
 ### Disable
 - Fast Boot
