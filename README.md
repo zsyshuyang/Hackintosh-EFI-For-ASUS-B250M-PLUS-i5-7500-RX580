@@ -24,6 +24,7 @@
  - CPU: i5-7500
  - 内存：金士顿 DDR4 2400MHz 8GB x 2
  - 硬盘：
+ 	  - 东芝 RD500 500G M.2 NVME
       - 三星 SSD 860 EVO 250GB SATA
       - 三星 SSD 850 EVO M.2 250GB 
       - 西数机械蓝盘 1TB 
