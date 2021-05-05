@@ -74,15 +74,15 @@ Core graphics card platform ID: 59120000, just a simple patch to add some attrib
 
 ### Work normally:
 
-- 1. The sound card
-- 2. The card
-- 3. Bluetooth
-- 4.Airdrop
-- 5. Relay
-- 6.App store
-- 7. Sleep
-- 8.H.264, HEVC hardware decoding, encoding, video processing
-- 9.SATA SSD Trim (terminal input: sudo Trimforce Enable)
+- The sound card
+- The network card
+- Bluetooth
+- Airdrop
+- Hand off
+- App store
+- Sleep
+- H.264, HEVC hardware decoding, encoding, video processing
+- SATA SSD Trim (terminal input: sudo Trimforce Enable)
 
 ## Instructions for use
 
