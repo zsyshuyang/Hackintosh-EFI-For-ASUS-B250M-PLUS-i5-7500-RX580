@@ -10,6 +10,11 @@ No independent graphics card EFI, only added models, three code need to be gener
 Core graphics card platform ID: 59120000, just a simple patch to add some attributes of the device, can be regenerated if necessary.
 
 # # update
+- 2021-06-12
+	- OC 0.7
+	- Update KEXT regularly
+	- Support to Big Sur & Monterey
+
 - 2021-05-05
 	- OC 0.6.9
 	- Update KEXT regularly
