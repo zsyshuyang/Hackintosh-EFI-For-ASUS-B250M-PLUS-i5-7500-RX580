@@ -2,14 +2,14 @@
 
 [中文说明](README_ZH.md)
 
-# # introduction
+# # Introduction
 
 Recently, Xianyu received a piece of RX580 for personal use. I have made integration and modification after referring to a lot of articles and other predecessors' EFI. Thank you.
 
 No independent graphics card EFI, only added models, three code need to be generated to add.
 Core graphics card platform ID: 59120000, just a simple patch to add some attributes of the device, can be regenerated if necessary.
 
-# # update
+# # Update
 - 2021-06-12
 	- OC 0.7
 	- Update KEXT regularly
@@ -36,7 +36,7 @@ Core graphics card platform ID: 59120000, just a simple patch to add some attrib
 - 2020-05-22
 	- Initial upload
 
-# # configuration
+# # Configuration
 
 - CPU: i5-7500
 - Memory: Kingston DDR4 2400MHz 8GB x 2
@@ -50,7 +50,7 @@ Core graphics card platform ID: 59120000, just a simple patch to add some attrib
 - Network card: BCM94360CS2 + PCIE adapter card
 - Display: Viewsonic VX2478-4K-HD
 
-# # the Bios Settings
+# # The Bios Settings
 (Refer to the following general options for Settings)
 
 ### Disable
@@ -93,7 +93,7 @@ Core graphics card platform ID: 59120000, just a simple patch to add some attrib
 
 - The model has been set and can be installed normally. Please generate the three sizes by yourself
 
-# # thanks
+# # Thanks To
 
 - [acidanthera](https://github.com/acidanthera)
 - [daliansky](https://github.com/daliansky/)
