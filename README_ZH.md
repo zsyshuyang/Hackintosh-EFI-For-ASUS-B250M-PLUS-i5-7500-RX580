@@ -8,6 +8,11 @@
 核芯显卡平台ID为：59120000，只是简单添加了设备部分属性的补丁，有需要可以再生成。
 
 ## 更新
+- 2021-06-12
+	- OC 0.7
+	- 常规更新KEXT
+	- 支持Big Sur & Monterey
+	- 
  -2021-05-05
  	- OC 0.6.9
  	- 常规更新KEXT
@@ -91,25 +96,3 @@
  - [acidanthera](https://github.com/acidanthera)
  - [daliansky](https://github.com/daliansky/)
  - [Mrliu12123](http://bbs.pcbeta.com/viewthread-1851046-1-1.html)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
