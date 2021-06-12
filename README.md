@@ -13,12 +13,12 @@ Core graphics card platform ID: 59120000, just a simple patch to add some attrib
 - 2021-06-12
 	- OC 0.7
 	- Update KEXT regularly
-	- Support to Big Sur & Monterey
+	- Support Big Sur & Monterey
 
 - 2021-05-05
 	- OC 0.6.9
 	- Update KEXT regularly
-	- Support to Big Sur 11.3.1
+	- Support Big Sur 11.3.1
 
 - 2020-12-31
 	- Added EFI without stand-alone display, model MacMini8,1
