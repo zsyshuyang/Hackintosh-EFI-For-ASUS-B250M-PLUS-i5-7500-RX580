@@ -92,7 +92,21 @@
 	<key>DeviceProperties</key>
 	<dict>
 		<key>Add</key>
-		<dict/>
+		<dict>
+			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
+			<dict>
+				<key>AAPL,ig-platform-id</key>
+				<data>AAASWQ==</data>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,2,0</string>
+				<key>device-id</key>
+				<data>ElkAAA==</data>
+				<key>device_type</key>
+				<string>VGA compatible controller</string>
+				<key>hda-gfx</key>
+				<string>onboard-1</string>
+			</dict>
+		</dict>
 		<key>Delete</key>
 		<dict/>
 	</dict>
@@ -262,8 +276,6 @@
 			<true/>
 			<key>PowerTimeoutKernelPanic</key>
 			<true/>
-			<key>ProvideCurrentCpuInfo</key>
-			<false/>
 			<key>SetApfsTrimTimeout</key>
 			<integer>-1</integer>
 			<key>ThirdPartyDrives</key>
@@ -341,8 +353,6 @@
 			<true/>
 			<key>AllowSetDefault</key>
 			<true/>
-			<key>AllowToggleSip</key>
-			<false/>
 			<key>ApECID</key>
 			<integer>0</integer>
 			<key>AuthRestart</key>
@@ -389,12 +399,12 @@
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
-				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 alcid=1 -lilubetaall</string>
-				<key>csr-active-config</key>
-				<data>AAAAAA==</data>
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
+				<key>boot-args</key>
+				<string>-v keepsyms=1 alcid=1 igfxonln=1</string>
+				<key>csr-active-config</key>
+				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
 				<string>en-US:0</string>
 				<key>run-efi-updater</key>
@@ -460,7 +470,7 @@
 		<false/>
 		<key>Generic</key>
 		<dict>
-			<key>AdviseFeatures</key>
+			<key>AdviseWindows</key>
 			<false/>
 			<key>MaxBIOSVersion</key>
 			<false/>
@@ -582,7 +592,7 @@
 			<key>ForceResolution</key>
 			<false/>
 			<key>GopPassThrough</key>
-			<string>Disabled</string>
+			<false/>
 			<key>IgnoreTextInGraphics</key>
 			<false/>
 			<key>ProvideConsoleGop</key>
@@ -607,8 +617,6 @@
 			<key>AppleBootPolicy</key>
 			<false/>
 			<key>AppleDebugLog</key>
-			<false/>
-			<key>AppleEg2Info</key>
 			<false/>
 			<key>AppleFramebufferInfo</key>
 			<false/>
